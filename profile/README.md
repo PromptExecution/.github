@@ -2,11 +2,10 @@
 
 Our website is http://promptexecution.com
 
-[http://app4.dog](app4.dog)
+Currently developing: [http://🐶.app4.dog](http://🐶.app4.dog)
 
-AI applications. Available for consulting/hire. 
-
-You can book a virtual appointment at [http://📅.promptexecution.com](📅.promptexecution.com)
+Available for consulting/hire. 
+Calender [📅.promptexecution.com](http://📅.promptexecution.com)
 
 Please follow or star our organization for updates.
 
