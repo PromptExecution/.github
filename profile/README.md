@@ -2,9 +2,13 @@
 
 Our website is http://promptexecution.com
 
-Currently in Stealth Mode. 
-Please follow or star our organization for updates.
+[http://app4.dog](app4.dog)
 
+AI applications. Available for consulting/hire. 
+
+You can book a virtual appointment at [http://📅.promptexecution.com](📅.promptexecution.com)
+
+Please follow or star our organization for updates.
 
 <!--
 
