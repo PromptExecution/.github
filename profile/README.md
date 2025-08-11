@@ -2,7 +2,9 @@
 
 Our website is http://promptexecution.com
 
-Currently developing: [http://app4.dog](http://app4.dog)
+Currently developing: 
+* [http://app4.dog](http://app4.dog)
+* [http://b00t.promptexecution.com](http://b00t.promptexecution.com)
 
 Available for consulting/hire. 
 Calender [📅.promptexecution.com](http://📅.promptexecution.com)
